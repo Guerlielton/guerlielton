@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guerlielton</h1>
-<h3 align="center">DevOps Engineer Jr</h3>
+<h3 align="center">DevOps Engineer </h3>
 
 - 🔭 I’m currently working on [Logcomex](https://www.logcomex.com/)
 - 📚 I’m currently learning **Terraform,Aws**,**Python**,**Docker**

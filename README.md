@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guerlielton</h1>
 <h3 align="center">DevOps Engineer </h3>
 
-- 🔭 I’m currently working on [RedIT](https://www.redit.pt/)
+- 🔭 I’m currently working on [EidosMedia](https://www.eidosmedia.com/)
 - 📚 I’m currently learning **Terraform,Aws**,**Python**,**Docker**
 - 👨‍💻 All of my projects are available at [https://github.com/Guerlielton](https://github.com/Guerlielton)
 ##
